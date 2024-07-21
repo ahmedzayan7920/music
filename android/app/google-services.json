@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5736520792",
+    "project_id": "music-vibe-4de9b",
+    "storage_bucket": "music-vibe-4de9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5736520792:android:c7bd91e7c2b30659ee7e2d",
+        "android_client_info": {
+          "package_name": "com.example.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7W__7LexblVH7r7jw35uBiAsY4EhiXBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
