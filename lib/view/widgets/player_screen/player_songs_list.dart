@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 import '../../../di/dependency_injection.dart';
-import '../../../logic/music_player_cubit/music_player_cubit.dart';
-import '../../../logic/music_player_cubit/music_player_state.dart';
-import '../add_remove_favorite_icon.dart';
 import '../song_tile_trailing.dart';
 
 class PlayerSongsList extends StatefulWidget {

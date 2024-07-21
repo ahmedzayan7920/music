@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:music/di/dependency_injection.dart';
-import 'package:music/logic/music_player_cubit/music_player_cubit.dart';
-import 'package:music/view/widgets/mini_player.dart';
-import 'package:music/view/widgets/song_list_tile.dart';
+import '../../di/dependency_injection.dart';
+import '../../logic/music_player_cubit/music_player_cubit.dart';
+import '../widgets/mini_player.dart';
+import '../widgets/song_list_tile.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
 class SearchScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:music/di/dependency_injection.dart';
-import 'package:music/logic/music_player_cubit/music_player_cubit.dart';
+import '../../di/dependency_injection.dart';
+import '../../logic/music_player_cubit/music_player_cubit.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 
 import 'add_remove_favorite_icon.dart';

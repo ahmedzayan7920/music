@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:music/view/widgets/home_screen/favorites_list.dart';
+import '../widgets/home_screen/favorites_list.dart';
 
 import '../../di/dependency_injection.dart';
 import '../../logic/music_player_cubit/music_player_cubit.dart';

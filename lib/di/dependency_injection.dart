@@ -1,6 +1,6 @@
 import 'package:get_it/get_it.dart';
 import 'package:just_audio/just_audio.dart';
-import 'package:music/logic/app_cubit/app_cubit.dart';
+import '../logic/app_cubit/app_cubit.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

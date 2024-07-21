@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:music/di/dependency_injection.dart';
-import 'package:music/logic/music_player_cubit/music_player_cubit.dart';
-import 'package:music/view/widgets/shuffle_list_tile.dart';
-import 'package:music/view/widgets/song_list_tile.dart';
+import '../../../di/dependency_injection.dart';
+import '../../../logic/music_player_cubit/music_player_cubit.dart';
+import '../shuffle_list_tile.dart';
+import '../song_list_tile.dart';
 
 import '../../../logic/music_player_cubit/music_player_state.dart';
 
