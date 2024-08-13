@@ -11,7 +11,7 @@ platform :android do
     firebase_cli_token: ENV["FIREBASE_CLI_TOKEN"],
     android_artifact_type: "APK",
     android_artifact_path: "../build/app/outputs/flutter-apk/app-release.apk",
-    testers: "ahmedabdallazayan@gmail.com",
+    testers: "ahmedabdallazayan@gmail.com, medozayan2014@gmail.com",
     release_notes: "Change Splash screen color"
   )
   end
