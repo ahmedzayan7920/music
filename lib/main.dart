@@ -24,6 +24,7 @@ Future<void> main() async {
   await getIt<MusicPlayerCubit>().restoreAudioState();
   _hasPermission = await getIt<OnAudioQuery>().permissionsStatus();
   _initListener();
+  // testing
   runApp(const MainApp());
 }
 
